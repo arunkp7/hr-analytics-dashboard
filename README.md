@@ -3,6 +3,9 @@
 End-to-end HR analytics project analyzing employee attrition patterns 
 using the IBM HR Analytics dataset across Excel, SQL, Python, and Power BI.
 
+## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
 ## Tech Stack
 - **Excel** — Data cleaning, pivot tables, KPI calculations
 - **PostgreSQL** — 10 analytical SQL queries
